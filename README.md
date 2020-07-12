@@ -2,7 +2,7 @@
 Hi, I'm Hritik Suman👋 pursuing B.Tech in Computer Science Engineering from Jaypee Institute of Information Technology, Noida. Previously worked on <b>Collaborative clustering</b> where the goal was to identify structures in each local data set considered by different algorithms. I live in Noida, IN and am an North origin.
 
 ## My Previous Projects 💻
-🌟 <b>Collobrative Clustering</b>
+🌟 <b>Collobrative Clustering:</b><br>
     <ul><li>Improves clustering process by combining different cluster algorithms.</li>
       <li>Collobrate different clustering algorithms k-mean, k -medoids, DBSCAN and hierarchical.</li>
     </ul>
