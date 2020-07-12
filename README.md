@@ -16,7 +16,7 @@ I live in Noida, IN and am an North origin.
         <li>The tool can perform multiple object classification and train model based on cluster object image data.</li>
     </ul>
 
-## Familiar with
+## Familiar with 📧
 <ul><li>Algorithms and Data structure</li>
   <li>Machine learning</li>
   <li>Data Analysis</li>
