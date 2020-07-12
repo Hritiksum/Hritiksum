@@ -31,6 +31,10 @@ I live in Noida, IN and am an North origin.
   </li>
 </ul>
  
+## Find me around the web 🌎:
+- Sharing updates on <a href="https://www.linkedin.com/in/hritik-suman-9a830a165/">LinkedIn</a> 💼
+- Mmail<a href="mailto:hritiksuman@gmail.com"><img src="https://www.pinclipart.com/picdir/middle/170-1703443_mail-icon-free-vector-in-adobe-illustrator-ai.png" height= "30px" alt="Mail"></a> 🏓
+
 
 
 <!--
