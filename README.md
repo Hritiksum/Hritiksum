@@ -1,5 +1,6 @@
 # Hritik Suman 
-Hi, I'm Hritik Suman👋 pursuing B.Tech in Computer Science Engineering from Jaypee Institute of Information Technology, Noida. Previously worked on <b>Collaborative clustering-</b> identify structures in each local data set considered by different algorithms. I live in Noida, IN and am an North origin.
+Hi, I'm Hritik Suman👋 pursuing B.Tech in Computer Science Engineering from Jaypee Institute of Information Technology, Noida. Previously worked on <b>Collaborative clustering-</b> identify structures in each local data set considered by different algorithms.<br>
+I live in Noida, IN and am an North origin.
 
 ## My Previous Projects 💻
 🌟 <b>Collobrative Clustering:</b><br>
