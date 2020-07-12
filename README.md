@@ -3,15 +3,15 @@ Hi, I'm Hritik Suman👋 pursuing B.Tech in Computer Science Engineering from Ja
 I live in Noida, IN and am an North origin.
 
 ## My Previous Projects 💻:
-🌟 <b>Collobrative Clustering:</b><br>
+🌟 <b>Collaborative Clustering:</b><br>
     <ul><li>Improves clustering process by combining different cluster algorithms.</li>
-      <li>Collobrate different clustering algorithms k-mean, k -medoids, DBSCAN and hierarchical.</li>
+      <li>Collaborate different clustering algorithms k-mean, k -medoids, DBSCAN and hierarchical.</li>
     </ul>
 🌀 <b>Phishing Urls Detector:</b><br> 
     <ul><li>Detect phishing URLs using ML technology independent of the blacklist, with an accuracy of 89%.</li>
         <li>Phishing URL Detector has both web and browser extension applications.</li>
     </ul>
-🍏 <b>Machine learing Tool:</b><br>
+🍏 <b>Machine learning  Tool:</b><br>
     <ul><li>Tools for non-tech people to use machine learning technology without any intermediate knowledge.</li>
         <li>The tool can perform multiple object classification and train model based on cluster object image data.</li>
     </ul>
