@@ -3,9 +3,9 @@ Hi, I'm Hritik Suman pursuing B.Tech in Computer Science Engineering from Jaypee
 
 ## My Previous Projects
 🌟 Collobrative Clustering: Improves clustering process by combining different cluster algorithms.<br>
-🍏 Phishing Url's Detector: detect phishing URLs using machine learning technology independent of the blacklist, with an accuracy of 89%.<br>
-🙌 Shared norms<br>
-🚀 Elevate the underrepresented
+🍏 Phishing Url's Detector: Detect phishing URLs using ML technology independent of the blacklist, with an accuracy of 89%.<br>
+:cyclone: Machine learing Tool:Tools for non-tech people to use machine learning technology without any intermediate knowledge.<br>
+🚀 
 
 
 <!--
