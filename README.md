@@ -1,11 +1,11 @@
 # Hritik Suman 
-Hi, I'm Hritik Suman👋 pursuing B.Tech in Computer Science Engineering from Jaypee Institute of Information Technology, Noida. Previously worked on <b>Collaborative clustering-</b> identify structures in each local data set considered by different algorithms.<br>
+Hi, I'm Hritik Suman👋 pursuing B.Tech in Computer Science Engineering from Jaypee Institute of Information Technology, Noida. Previously worked on <b>Collaborative clustering</b> identify structures in each local data set considered by different algorithms.<br>
 I live in Noida, IN and am an North origin.
 
 ## My Previous Projects 💻:
 🌟 <b>Collaborative Clustering:</b><br>
     <ul><li>Improves clustering process by combining different cluster algorithms.</li>
-      <li>Collaborate different clustering algorithms k-mean, k -medoids, DBSCAN and hierarchical.</li>
+      <li>Collaborate different clustering algorithms k-mean, k-medoids, DBSCAN and hierarchical.</li>
     </ul>
 🌀 <b>Phishing Urls Detector:</b><br> 
     <ul><li>Detect phishing URLs using ML technology independent of the blacklist, with an accuracy of 89%.</li>
