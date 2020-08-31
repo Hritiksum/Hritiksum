@@ -23,6 +23,7 @@ Hi, I'm Hritik Suman👋 Versatile computer science student experienced on Compe
   <li>Machine learning</li>
   <li>Data Analysis</li>
   <li>Django</li>
+  <li>Django Rest Framework</li>
   <li>IBM Cloud</li>
   <li>Languages<ul>
     <li>C++</li>
@@ -32,6 +33,8 @@ Hi, I'm Hritik Suman👋 Versatile computer science student experienced on Compe
     </ul>
   </li>
 </ul>
+
+[![Github Stats By Hritik](https://github-readme-stats.vercel.app/api?username=Hritiksum&show_icons=true)](https://github.com/Hritiksum/)
  
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/hritik-suman-9a830a165/">LinkedIn</a> 💼
