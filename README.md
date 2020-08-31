@@ -1,10 +1,10 @@
 # Hritik Suman 
-Hi, I'm Hritik Suman👋 pursuing B.Tech in Computer Science Engineering from Jaypee Institute of Information Technology, Noida. Previously worked on <b>Collaborative clustering</b> identify structures in each local data set considered by different algorithms.<br>
-I live in Noida, IN and am an North origin.
+Hi, I'm Hritik Suman👋 Versatile computer science student experienced on Competitive Programming, Backend development and software development.  I want to work as a software developer engineer.. Aiming to utilize my problem solving, coding and management skills for the betterment of the community. Work experience with people at multiple level.
+
 
 [![Github Stats By Hritik](https://github-readme-stats.vercel.app/api?username=Hritiksum&show_icons=true)](https://github.com/Hritiksum/)
 
-## My Previous Projects 💻:
+<!--## My Previous Projects 💻:
 🌟 <b>Collaborative Clustering:</b><br>
     <ul><li>Improves clustering process by combining different cluster algorithms.</li>
       <li>Collaborate different clustering algorithms k-mean, k-medoids, DBSCAN and hierarchical.</li>
@@ -16,7 +16,7 @@ I live in Noida, IN and am an North origin.
 🍏 <b>Machine learning  Tool:</b><br>
     <ul><li>Tools for non-tech people to use machine learning technology without any intermediate knowledge.</li>
         <li>The tool can perform multiple object classification and train model based on cluster object image data.</li>
-    </ul>
+    </ul>--->
 
 ## Familiar with ⚡:
 <ul><li>Algorithms and Data structure</li>
