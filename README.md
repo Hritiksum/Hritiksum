@@ -2,8 +2,6 @@
 Hi, I'm Hritik Suman👋 Versatile computer science student experienced on Competitive Programming, Backend development and software development.  I want to work as a software developer engineer.. Aiming to utilize my problem solving, coding and management skills for the betterment of the community. Work experience with people at multiple level.
 
 
-[![Github Stats By Hritik](https://github-readme-stats.vercel.app/api?username=Hritiksum&show_icons=true)](https://github.com/Hritiksum/)
-
 <!--## My Previous Projects 💻:
 🌟 <b>Collaborative Clustering:</b><br>
     <ul><li>Improves clustering process by combining different cluster algorithms.</li>
