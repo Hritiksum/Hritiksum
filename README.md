@@ -20,11 +20,13 @@ Hi, I'm Hritik Suman👋 Versatile computer science student experienced on Compe
 <ul><li>Algorithms and Data structure</li>
   <li>Django</li>
   <li>Django Rest Framework</li>
+  <li>ReactJs</li>
   <li>Machine learning</li>
   <li>Data Analysis</li>
   <li>IBM Cloud</li>
   <li>Languages<ul>
     <li>C++</li>
+    <li>Java Script</li>
     <li>Python</li>
     <li>Dart</li>
     <li>Java</li>
