@@ -1,5 +1,5 @@
 # Hritik Suman 
-Hi, I'm Hritik Suman👋 Versatile computer science student experienced in Competitive Programming, Backend development, MERN develpoment ,and software development.  I want to work as a software developer engineer.. Aiming to utilize my problem solving, coding and management skills for the betterment of the community. Work experience with people at multiple level.
+Hi, I'm Hritik Suman👋 Versatile computer science student experienced in Competitive Programming, Backend development, MERN development ,and software development.  I want to work as a software developer engineer.. Aiming to utilize my problem solving, coding and management skills for the betterment of the community. Work experience with people at multiple level.
 
 
 <!--## My Previous Projects 💻:
