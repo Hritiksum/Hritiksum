@@ -18,9 +18,9 @@ Hi, I'm Hritik Suman👋 Versatile computer science student experienced in Compe
 
 ## Familiar with ⚡:
 <ul><li>Algorithms and Data structure</li>
+  <li>Angular</li>
   <li>Django</li>
   <li>Django Rest Framework</li>
-  <li>ReactJs</li>
   <li>Machine learning</li>
   <li>Data Analysis</li>
   <li>IBM Cloud</li>
