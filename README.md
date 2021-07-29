@@ -27,7 +27,7 @@ Hi, I'm Hritik Suman👋 Versatile computer science student experienced in Compe
   <li>Languages<ul>
     <li>C++</li>
     <li>TypeScript</li>
-    <li>Java Script</li>
+    <li>JavaScript</li>
     <li>Python</li>
     <li>Dart</li>
     <li>Java</li>
