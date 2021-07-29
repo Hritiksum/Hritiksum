@@ -26,6 +26,7 @@ Hi, I'm Hritik Suman👋 Versatile computer science student experienced in Compe
   <li>IBM Cloud</li>
   <li>Languages<ul>
     <li>C++</li>
+    <li>TypeScript</li>
     <li>Java Script</li>
     <li>Python</li>
     <li>Dart</li>
