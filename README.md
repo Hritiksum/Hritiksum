@@ -42,6 +42,7 @@ Hi, I'm Hritik Suman👋 Versatile computer science student experienced in Compe
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/hritik-suman-9a830a165/">LinkedIn</a> 💼
 - Wanna chat? :point_right: @ me on <a href="mailto:hritiksuman@gmail.com">Gmail</a> 📧
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 <!--
